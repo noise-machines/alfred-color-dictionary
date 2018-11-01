@@ -1,0 +1,13 @@
+{
+  "name": "alfred-color-dictionary",
+  "version": "0.0.1",
+  "description": "Search colors from Alfred",
+  "main": "index.js",
+  "repository": "https://github.com/noise-machines/alfred-color-dictionary",
+  "author": "C. Thomas Bailey",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "alfy": "^0.7.0"
+  }
+}
